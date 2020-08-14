@@ -6,7 +6,7 @@ from cefpython3 import cefpython as cef
 import platform
 import sys
 
-live_room = "http://live.dz11.com/77595203"
+live_room = "https://www.baidu.com"
 
 def main():
     check_versions()

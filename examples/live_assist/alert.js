@@ -1,1 +1,1 @@
-$('textarea').val('value from python')
+alert('1');
